@@ -1,0 +1,11 @@
+C:\Users\erick\OneDrive\Escritorio\university\Backend\universityApiBackend\LinqSnippets\bin\Debug\net8.0\LinqSnippets.deps.json
+C:\Users\erick\OneDrive\Escritorio\university\Backend\universityApiBackend\LinqSnippets\bin\Debug\net8.0\LinqSnippets.dll
+C:\Users\erick\OneDrive\Escritorio\university\Backend\universityApiBackend\LinqSnippets\bin\Debug\net8.0\LinqSnippets.pdb
+C:\Users\erick\OneDrive\Escritorio\university\Backend\universityApiBackend\LinqSnippets\obj\Debug\net8.0\LinqSnippets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erick\OneDrive\Escritorio\university\Backend\universityApiBackend\LinqSnippets\obj\Debug\net8.0\LinqSnippets.AssemblyInfoInputs.cache
+C:\Users\erick\OneDrive\Escritorio\university\Backend\universityApiBackend\LinqSnippets\obj\Debug\net8.0\LinqSnippets.AssemblyInfo.cs
+C:\Users\erick\OneDrive\Escritorio\university\Backend\universityApiBackend\LinqSnippets\obj\Debug\net8.0\LinqSnippets.csproj.CoreCompileInputs.cache
+C:\Users\erick\OneDrive\Escritorio\university\Backend\universityApiBackend\LinqSnippets\obj\Debug\net8.0\LinqSnippets.dll
+C:\Users\erick\OneDrive\Escritorio\university\Backend\universityApiBackend\LinqSnippets\obj\Debug\net8.0\refint\LinqSnippets.dll
+C:\Users\erick\OneDrive\Escritorio\university\Backend\universityApiBackend\LinqSnippets\obj\Debug\net8.0\LinqSnippets.pdb
+C:\Users\erick\OneDrive\Escritorio\university\Backend\universityApiBackend\LinqSnippets\obj\Debug\net8.0\ref\LinqSnippets.dll
